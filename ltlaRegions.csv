@@ -1,0 +1,348 @@
+﻿area,population,region
+Aberdeen City,228571,Scotland
+Aberdeenshire,261062,Scotland
+Adur,64286,South East
+Allerdale,97754,North West
+Amber Valley,128086,East Midlands
+Angus,116162,Scotland
+Argyll and Bute,85784,Scotland
+Arun,160920,South East
+Ashfield,127860,East Midlands
+Ashford,130081,South East
+Aylesbury Vale,203233,South East
+Babergh,92035,East of England
+Barking and Dagenham,212806,London
+Barnet,395729,London
+Barnsley,246968,Yorkshire and The Humber
+Barrow-in-Furness,67073,North West
+Basildon,187154,East of England
+Basingstoke and Deane,176573,South East
+Bassetlaw,117530,East Midlands
+Bath and North East Somerset,192982,South West
+Bedford,173252,East of England
+Bexley,248331,London
+Birmingham,1141869,West Midlands
+Blaby,101449,East Midlands
+Blackburn with Darwen,149593,North West
+Blackpool,139388,North West
+Bolsover,80610,East Midlands
+Bolton,287476,North West
+Boston,70175,East Midlands
+"Bournemouth, Christchurch and Poole",395833,South West
+Bracknell Forest,122685,South East
+Bradford,539846,Yorkshire and The Humber
+Braintree,152593,East of England
+Breckland,139959,East of England
+Brent,329633,London
+Brentwood,77007,East of England
+Brighton and Hove,290598,South East
+"Bristol, City of",464052,South West
+Broadland,130879,East of England
+Bromley,332443,London
+Bromsgrove,99915,West Midlands
+Broxbourne,97345,East of England
+Broxtowe,114035,East Midlands
+Burnley,88889,North West
+Bury,190959,North West
+Calderdale,211577,Yorkshire and The Humber
+Cambridge,124654,East of England
+Camden,270089,London
+Cannock Chase,100741,West Midlands
+Canterbury,165425,South East
+Carlisle,108626,North West
+Castle Point,90414,East of England
+Central Bedfordshire,288750,East of England
+Charnwood,186047,East Midlands
+Chelmsford,178378,East of England
+Cheltenham,116279,South West
+Cherwell,150442,South East
+Cheshire East,384293,North West
+Cheshire West and Chester,342889,North West
+Chesterfield,104918,East Midlands
+Chichester,121118,South East
+Chiltern,96096,South East
+Chorley,118156,North West
+City of Edinburgh,524950,Scotland
+Clackmannanshire,51581,Scotland
+Colchester,194617,East of England
+Copeland,68152,North West
+Corby,72165,East Midlands
+Cornwall and Isles of Scilly,571429,South West
+Cotswold,89810,South West
+County Durham,530287,North East
+Coventry,371681,West Midlands
+Craven,57099,Yorkshire and The Humber
+Crawley,112436,South East
+Croydon,386581,London
+Dacorum,154860,East of England
+Darlington,106870,North East
+Dartford,112598,South East
+Daventry,85973,East Midlands
+Derby,257370,East Midlands
+Derbyshire Dales,72289,East Midlands
+Doncaster,311888,Yorkshire and The Humber
+Dorset,378788,South West
+Dover,118077,South East
+Dudley,321429,West Midlands
+Dumfries and Galloway,148699,Scotland
+Dundee City,149273,Scotland
+Ealing,341722,London
+East Ayrshire,122010,Scotland
+East Cambridgeshire,89918,East of England
+East Devon,145946,South West
+East Dunbartonshire,108590,Scotland
+East Hampshire,122172,South East
+East Hertfordshire,149897,East of England
+East Lindsey,141689,East Midlands
+East Lothian,107143,Scotland
+East Northamptonshire,94578,East Midlands
+East Renfrewshire,95495,Scotland
+East Riding of Yorkshire,340974,Yorkshire and The Humber
+East Staffordshire,119705,West Midlands
+East Suffolk,249307,East of England
+Eastbourne,103837,South East
+Eastleigh,133603,South East
+Eden,53292,North West
+Elmbridge,136808,South East
+Enfield,333791,London
+Epping Forest,131648,East of England
+Epsom and Ewell,80668,South East
+Erewash,115385,East Midlands
+Exeter,131313,South West
+Falkirk,161017,Scotland
+Fareham,116319,South East
+Fenland,101865,East of England
+Fife,373529,Scotland
+Folkestone and Hythe,112994,South East
+Forest of Dean,86747,South West
+Fylde,80769,North West
+Gateshead,202116,North East
+Gedling,117967,East Midlands
+Glasgow City,632619,Scotland
+Gloucester,129078,South West
+Gosport,84848,South East
+Gravesham,106933,South East
+Great Yarmouth,99307,East of England
+Greenwich,288052,London
+Guildford,148825,South East
+Hackney and City of London,290657,London
+Halton,129353,North West
+Hambleton,91633,Yorkshire and The Humber
+Hammersmith and Fulham,185124,London
+Harborough,93817,East Midlands
+Haringey,268446,London
+Harlow,87121,East of England
+Harrogate,160839,Yorkshire and The Humber
+Harrow,251064,London
+Hart,97035,South East
+Hartlepool,93684,North East
+Hastings,93023,South East
+Havant,126280,South East
+Havering,259434,London
+"Herefordshire, County of",192982,West Midlands
+Hertsmere,104906,East of England
+High Peak,92677,East Midlands
+Highland,236220,Scotland
+Hillingdon,306802,London
+Hinckley and Bosworth,113128,East Midlands
+Horsham,143836,South East
+Hounslow,271552,London
+Huntingdonshire,177885,East of England
+Hyndburn,81037,North West
+Inverclyde,77764,Scotland
+Ipswich,136872,East of England
+Isle of Wight,141762,South East
+Islington,242358,London
+Kensington and Chelsea,156197,London
+Kettering,101796,East Midlands
+King's Lynn and West Norfolk,151332,East of England
+"Kingston upon Hull, City of",259943,Yorkshire and The Humber
+Kingston upon Thames,177469,London
+Kirklees,439469,Yorkshire and The Humber
+Knowsley,150794,North West
+Lambeth,326146,London
+Lancaster,146067,North West
+Leeds,792808,Yorkshire and The Humber
+Leicester,354430,East Midlands
+Lewes,103343,South East
+Lewisham,305898,London
+Lichfield,104803,West Midlands
+Lincoln,99398,East Midlands
+Liverpool,498060,North West
+Luton,213134,East of England
+Maidstone,171694,South East
+Maldon,64965,East of England
+Malvern Hills,78723,West Midlands
+Manchester,552906,North West
+Mansfield,109302,East Midlands
+Medway,278502,South East
+Melton,51151,East Midlands
+Mendip,115607,South West
+Merton,206468,London
+Mid Devon,82353,South West
+Mid Suffolk,103896,East of England
+Mid Sussex,150917,South East
+Middlesbrough,140951,North East
+Midlothian,92455,Scotland
+Milton Keynes,269720,South East
+Mole Valley,87284,South East
+Moray,95588,Scotland
+Na h-Eileanan Siar,26721,Scotland
+New Forest,180043,South East
+Newark and Sherwood,122353,East Midlands
+Newcastle upon Tyne,302609,North East
+Newcastle-under-Lyme,129439,West Midlands
+Newham,353234,London
+North Ayrshire,134615,Scotland
+North Devon,97046,South West
+North East Derbyshire,101463,East Midlands
+North East Lincolnshire,159817,Yorkshire and The Humber
+North Hertfordshire,133681,East of England
+North Kesteven,116883,East Midlands
+North Lanarkshire,341131,Scotland
+North Lincolnshire,172147,Yorkshire and The Humber
+North Norfolk,104895,East of England
+North Somerset,214953,South West
+North Tyneside,207940,North East
+North Warwickshire,65279,West Midlands
+North West Leicestershire,103578,East Midlands
+Northampton,224593,East Midlands
+Northumberland,322437,North East
+Norwich,141304,East of England
+Nottingham,332689,East Midlands
+Nuneaton and Bedworth,129928,West Midlands
+Oadby and Wigston,57043,East Midlands
+Oldham,237136,North West
+Orkney Islands,22222,Scotland
+Oxford,152672,South East
+Pendle,92166,North West
+Perth and Kinross,152104,Scotland
+Peterborough,202198,East of England
+Plymouth,262458,South West
+Portsmouth,215084,South East
+Preston,143045,North West
+Reading,161808,South East
+Redbridge,305292,London
+Redcar and Cleveland,137168,North East
+Redditch,85202,West Midlands
+Reigate and Banstead,148707,South East
+Renfrewshire,179245,Scotland
+Ribble Valley,60847,North West
+Richmond upon Thames,197861,London
+Richmondshire,53701,Yorkshire and The Humber
+Rochdale,222447,North West
+Rochford,87336,East of England
+Rossendale,71429,North West
+Rother,96104,South East
+Rotherham,265306,Yorkshire and The Humber
+Rugby,109005,West Midlands
+Runnymede,89404,South East
+Rushcliffe,119284,East Midlands
+Rushmoor,94664,South East
+Rutland,39877,East Midlands
+Ryedale,55432,Yorkshire and The Humber
+Salford,258835,North West
+Sandwell,328542,West Midlands
+Scarborough,108844,Yorkshire and The Humber
+Scottish Borders,115385,Scotland
+Sedgemoor,123324,South West
+Sefton,276284,North West
+Selby,90652,Yorkshire and The Humber
+Sevenoaks,120748,South East
+Sheffield,584722,Yorkshire and The Humber
+Shetland Islands,22936,Scotland
+Shropshire,323024,West Midlands
+Slough,149485,South East
+Solihull,216393,West Midlands
+Somerset West and Taunton,154812,South West
+South Ayrshire,112648,Scotland
+South Bucks,70423,South East
+South Cambridgeshire,159184,East of England
+South Derbyshire,107191,East Midlands
+South Gloucestershire,285024,South West
+South Hams,86957,South West
+South Holland,94961,East Midlands
+South Kesteven,142458,East Midlands
+South Lakeland,105072,North West
+South Lanarkshire,320624,Scotland
+South Norfolk,140794,East of England
+South Northamptonshire,94421,East Midlands
+South Oxfordshire,141907,South East
+South Ribble,110714,North West
+South Somerset,168317,South West
+South Staffordshire,112392,West Midlands
+South Tyneside,150943,North East
+Southampton,252567,South East
+Southend-on-Sea,183146,East of England
+Southwark,318702,London
+Spelthorne,99857,South East
+St Albans,148541,East of England
+St. Helens,180573,North West
+Stafford,137371,West Midlands
+Staffordshire Moorlands,98408,West Midlands
+Stevenage,87873,East of England
+Stirling,94340,Scotland
+Stockport,293319,North West
+Stockton-on-Tees,197347,North East
+Stoke-on-Trent,256367,West Midlands
+Stratford-on-Avon,130064,West Midlands
+Stroud,119857,South West
+Sunderland,277664,North East
+Surrey Heath,89286,South East
+Sutton,206231,London
+Swale,150000,South East
+Swindon,221992,South West
+Tameside,226456,North West
+Tamworth,76723,West Midlands
+Tandridge,88089,South East
+Teignbridge,134503,South West
+Telford and Wrekin,179907,West Midlands
+Tendring,146580,East of England
+Test Valley,126126,South East
+Tewkesbury,95000,South West
+Thanet,141983,South East
+Three Rivers,93333,East of England
+Thurrock,174451,East of England
+Tonbridge and Malling,132075,South East
+Torbay,136232,South West
+Torridge,68345,South West
+Tower Hamlets,324538,London
+Trafford,237385,North West
+Tunbridge Wells,118721,South East
+Uttlesford,91241,East of England
+Vale of White Horse,136150,South East
+Wakefield,348465,Yorkshire and The Humber
+Walsall,285579,West Midlands
+Waltham Forest,277143,London
+Wandsworth,329609,London
+Warrington,209893,North West
+Warwick,143820,West Midlands
+Watford,96585,East of England
+Waverley,126263,South East
+Wealden,161359,South East
+Wellingborough,79710,East Midlands
+Welwyn Hatfield,123028,East of England
+West Berkshire,158371,South East
+West Devon,55794,South West
+West Dunbartonshire,88918,Scotland
+West Lancashire,114317,North West
+West Lindsey,95808,East Midlands
+West Lothian,183060,Scotland
+West Oxfordshire,110672,South East
+West Suffolk,179221,East of England
+Westminster,261386,London
+Wigan,328753,North West
+Wiltshire,500000,South West
+Winchester,124797,South East
+Windsor and Maidenhead,151515,South East
+Wirral,323899,North West
+Woking,100870,South East
+Wokingham,171053,South East
+Wolverhampton,263441,West Midlands
+Worcester,101190,West Midlands
+Worthing,110619,South East
+Wychavon,129430,West Midlands
+Wycombe,174142,South East
+Wyre,112060,North West
+Wyre Forest,101266,West Midlands
+York,210736,Yorkshire and The Humber

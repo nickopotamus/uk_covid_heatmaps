@@ -1,0 +1,6 @@
+
+*.png
+.ipynb_checkpoints/england_covid_heatmaps-checkpoint.ipynb
+.ipynb_checkpoints/ltla_covid_heatmaps-checkpoint.ipynb
+.ipynb_checkpoints/uk_covid_heatmaps-checkpoint.ipynb
+.DS_Store
